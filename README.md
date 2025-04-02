@@ -1,3 +1,26 @@
+# My Portfolio
+
+This is a personal portfolio website created using React. It showcases various projects and provides an introduction to the developer's work and skills.
+
+## Features
+
+- A professional portfolio design using React.
+- Includes sections for personal information, projects, and contact details.
+- Built with the latest front-end technologies including React.js.
+
+## Requirements
+
+- Node.js (for running the development server)
+- npm or yarn (for managing dependencies)
+
+## Installation
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/HiteshSharma04/MyPortfolio.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
